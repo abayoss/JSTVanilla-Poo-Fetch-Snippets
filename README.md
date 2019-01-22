@@ -1,6 +1,8 @@
 # JSTVanilla-Poo-Fetch-Snippets
 just for learning purposes : )
 
+i was using vs code extention : live server 
+
 master : Simple Dom manipulation thru functional event listenners and storing in localStorage
 
 there is 3 other branches : 
