@@ -3,6 +3,8 @@ just for learning purposes : )
 
 i was using vs code extention : live server 
 
+tutorial : https://www.udemy.com/modern-javascript-from-the-beginning
+
 master : Simple Dom manipulation thru functional event listenners and storing in localStorage
 
 there is 3 other branches : 
