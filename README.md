@@ -1,13 +1,11 @@
 # JSTVanilla-Poo-Fetch-Snippets
-just for learning purposes : )
+## extentions
+VS code : live server 
+## tutorial
+Udemy : https://www.udemy.com/modern-javascript-from-the-beginnin
+## there is 4 branches : 
 
-i was using vs code extention : live server 
-
-tutorial : https://www.udemy.com/modern-javascript-from-the-beginning
-
-master : Simple Dom manipulation thru functional event listenners and storing in localStorage
-
-there is 3 other branches : 
+  master : Simple Dom manipulation thru functional event listenners and storing in localStorage
 
   DomListPoo : ES5 prtotypes convertion to ES6 Class and localStorage
   
